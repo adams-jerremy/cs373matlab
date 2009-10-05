@@ -1,0 +1,28 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+In this project, we were to 'reverse engineer a tiny part of MATLAB.'
+
+
+= Details =
+
+The methods we replicated are as follows:
+
+    * add: add together two matrices of the same size, or a scalar to each element of a matrix
+    * subtract: subtract from each other two matrices of the same size, or a scalar from each element of a matrix
+    * multiply: multiply a scalar by each element of the matrix, or multiply two matrices of compatible sizes (the number of columns in the first matrix equal the number of rows in the second)
+    * concat_cols: 
+    * concat_rows
+    * diag
+    * eye
+    * ones
+    * rand
+    * slice_col
+    * slice_row
+    * sum_cols
+    * transpose
+    * tril
+    * triu
+    * zeros
+    * sum_rows 
